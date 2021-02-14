@@ -3,16 +3,13 @@
     <header>
       Radiology Spotters
     </header>
-    <div class="choice">
-      Choose a Quiz Below
-    </div>
     <div class="quizChoices">
       <div class="quiz" ng-repeat="quiz in quizzes">
         <p class="title">{{quiz.title}}</p>
         <a ui-sref="Quiz({quizBriefName: quiz.briefName})">
           <img ng-src="{{quiz.picture}}" alt="Quiz" width="200">
         </a>
-        <p class="description">{{quiz.description}}</p>
+        <!--<p class="description">{{quiz.description}}</p>-->
       </div>
     </div>
   </div>
