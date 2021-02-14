@@ -27,7 +27,7 @@ angular.module('pictureQuiz')
     $scope.borderOnYes = false;
     $scope.borderOnNo = false;
     $scope.questions = $scope.quiz.config.randomizeQuestionSequence ?         quizService.randomizeQuestionSequence($scope.quiz.questions) : $scope.quiz.questions;
-    $scope.numQuestions = 5;
+    $scope.numQuestions = 20;
 
     /* Get first question information */
     $scope.currentQuestion = 1;

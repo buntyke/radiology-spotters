@@ -12,7 +12,7 @@ angular.module('pictureQuiz')
 
   $scope.percentCorrect = 0;
   if ($scope.numQuestions !== 0) {
-    $scope.percentCorrect = Math.round(($scope.numCorrect / $scope.numQuestions) * 100);
+    $scope.percentCorrect = Math.round(($scope.numCorrect / 20) * 100);
   }
   $scope.secondsElapsed = $stateParams.secondsElapsed;
 });
