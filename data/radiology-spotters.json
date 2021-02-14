@@ -1,0 +1,3960 @@
+{
+    "briefName": "radiology-spotters",
+    "title": "Radiology Spotters",
+    "config": {
+        "randomizeQuestionSequence": true,
+        "autoSubmit": false,
+        "percentGreatJob": 60
+    },
+    "questions": [
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_PAPPILOMATOSIS_CT_CHEST/2.Chest-CT-scan-showing-tumor-in-distal-trachea-with-barely-patent-lumen-arrow-coronal.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal pappilomatosis",
+                "TRACHEAL PAPPILOMATOSIS",
+                "Tracheal pappilomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_PAPPILOMATOSIS_CT_CHEST/1.9781604065916_c023_f001.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal pappilomatosis",
+                "TRACHEAL PAPPILOMATOSIS",
+                "Tracheal pappilomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_PAPPILOMATOSIS_CT_CHEST/5.000003.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal pappilomatosis",
+                "TRACHEAL PAPPILOMATOSIS",
+                "Tracheal pappilomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_PAPPILOMATOSIS_CT_CHEST/3.Chest-CT-scan-shows-tracheoesophageal-fistula-T-trachea-E-esophagus.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal pappilomatosis",
+                "TRACHEAL PAPPILOMATOSIS",
+                "Tracheal pappilomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_PAPPILOMATOSIS_CT_CHEST/4.WJR-2-237-g014.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal pappilomatosis",
+                "TRACHEAL PAPPILOMATOSIS",
+                "Tracheal pappilomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HEMANGIOBLASTOMA_MRI_BRAIN_AND_SPINE/5.F5.large.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hemangioblastoma",
+                "HEMANGIOBLASTOMA",
+                "Hemangioblastoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HEMANGIOBLASTOMA_MRI_BRAIN_AND_SPINE/3.Archives_Spinal_Intramedullary_Tumor_Embo_1.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hemangioblastoma",
+                "HEMANGIOBLASTOMA",
+                "Hemangioblastoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HEMANGIOBLASTOMA_MRI_BRAIN_AND_SPINE/1.195a5f83b0ce07d03204f58638d74f.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hemangioblastoma",
+                "HEMANGIOBLASTOMA",
+                "Hemangioblastoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HEMANGIOBLASTOMA_MRI_BRAIN_AND_SPINE/4.a47fddacb9f80fed879686357aed75.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hemangioblastoma",
+                "HEMANGIOBLASTOMA",
+                "Hemangioblastoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HEMANGIOBLASTOMA_MRI_BRAIN_AND_SPINE/2.9753c8f72cdf649a9beb94f695071e70.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hemangioblastoma",
+                "HEMANGIOBLASTOMA",
+                "Hemangioblastoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KUMMELLS_OSTEONECROSIS_XRAY_SPINE/4.b62a3bc0ae6102e7a519c97bb6d93b.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "kummells osteonecrosis",
+                "KUMMELLS OSTEONECROSIS",
+                "Kummells osteonecrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KUMMELLS_OSTEONECROSIS_XRAY_SPINE/1.530597e38714c5221d17db4a818b21.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "kummells osteonecrosis",
+                "KUMMELLS OSTEONECROSIS",
+                "Kummells osteonecrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KUMMELLS_OSTEONECROSIS_XRAY_SPINE/5.7a6ce3c9e2a10cc652699593a6d952_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "kummells osteonecrosis",
+                "KUMMELLS OSTEONECROSIS",
+                "Kummells osteonecrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KUMMELLS_OSTEONECROSIS_XRAY_SPINE/2.56621f08bb595cf13dddaad1a52b1e_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "kummells osteonecrosis",
+                "KUMMELLS OSTEONECROSIS",
+                "Kummells osteonecrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KUMMELLS_OSTEONECROSIS_XRAY_SPINE/3.ec2d3f10ab539b7163e87498938604.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "kummells osteonecrosis",
+                "KUMMELLS OSTEONECROSIS",
+                "Kummells osteonecrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRETIC_PARIETAL_ENCEPHALOCELE_MRI_BRAIN/2.d613274bcf50d6bae25e823a1540f1_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atretic parietal encephalocele",
+                "ATRETIC PARIETAL ENCEPHALOCELE",
+                "Atretic parietal encephalocele"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRETIC_PARIETAL_ENCEPHALOCELE_MRI_BRAIN/3.Axial.CT_.scan_.atretic.encephalocele.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atretic parietal encephalocele",
+                "ATRETIC PARIETAL ENCEPHALOCELE",
+                "Atretic parietal encephalocele"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRETIC_PARIETAL_ENCEPHALOCELE_MRI_BRAIN/5.Sagittal.T!.MRI_.atretic.encephalocele.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atretic parietal encephalocele",
+                "ATRETIC PARIETAL ENCEPHALOCELE",
+                "Atretic parietal encephalocele"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRETIC_PARIETAL_ENCEPHALOCELE_MRI_BRAIN/4.Axial.T2.MRI_.atretic.encephalocele.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atretic parietal encephalocele",
+                "ATRETIC PARIETAL ENCEPHALOCELE",
+                "Atretic parietal encephalocele"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRETIC_PARIETAL_ENCEPHALOCELE_MRI_BRAIN/1.B9780323081764000318_f031-007ab-9780323081764.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atretic parietal encephalocele",
+                "ATRETIC PARIETAL ENCEPHALOCELE",
+                "Atretic parietal encephalocele"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GASTRIC_DIVERTICULUM_CT_ABDOMEN/3.b89ccd458ec13e6dd9f78f3c48ed3c.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gastric diverticulum",
+                "GASTRIC DIVERTICULUM",
+                "Gastric diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GASTRIC_DIVERTICULUM_CT_ABDOMEN/5.UGI-and-CT-scan-showing-posterior-gastric-diverticulum.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gastric diverticulum",
+                "GASTRIC DIVERTICULUM",
+                "Gastric diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GASTRIC_DIVERTICULUM_CT_ABDOMEN/1.PMC3939326_jls0031331140004.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gastric diverticulum",
+                "GASTRIC DIVERTICULUM",
+                "Gastric diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GASTRIC_DIVERTICULUM_CT_ABDOMEN/4.Abdominal-CT-showing-a-perforated-duodenal-diverticulum-with-free-air-A-arrow-at.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gastric diverticulum",
+                "GASTRIC DIVERTICULUM",
+                "Gastric diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GASTRIC_DIVERTICULUM_CT_ABDOMEN/2.5fd20334525fe49215485e2c30bce0_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gastric diverticulum",
+                "GASTRIC DIVERTICULUM",
+                "Gastric diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TODDLERS_FRACTURE_XRAY/4.5c5254b10d10977d50cbb01fee9dbf.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "toddlers fracture",
+                "TODDLERS FRACTURE",
+                "Toddlers fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TODDLERS_FRACTURE_XRAY/1.a521190dbe186e17d673c2f7611e42.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "toddlers fracture",
+                "TODDLERS FRACTURE",
+                "Toddlers fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TODDLERS_FRACTURE_XRAY/2.7a3d11f98d18d3ec5bb882bbb86bd3.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "toddlers fracture",
+                "TODDLERS FRACTURE",
+                "Toddlers fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TODDLERS_FRACTURE_XRAY/3.795f074eb78e4dcf15333344d6f3da.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "toddlers fracture",
+                "TODDLERS FRACTURE",
+                "Toddlers fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TODDLERS_FRACTURE_XRAY/5.Tibfracture.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "toddlers fracture",
+                "TODDLERS FRACTURE",
+                "Toddlers fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BALLON_KHYPHOPLASTY_VERSUS_VERTEBROPLASTY_XRAY_SPINE/1.Balloon-Kyphoplasty3.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ballon khyphoplasty versus vertebroplasty",
+                "BALLON KHYPHOPLASTY VERSUS VERTEBROPLASTY",
+                "Ballon khyphoplasty versus vertebroplasty"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BALLON_KHYPHOPLASTY_VERSUS_VERTEBROPLASTY_XRAY_SPINE/5.2003_11_18_15_47_40_706.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ballon khyphoplasty versus vertebroplasty",
+                "BALLON KHYPHOPLASTY VERSUS VERTEBROPLASTY",
+                "Ballon khyphoplasty versus vertebroplasty"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BALLON_KHYPHOPLASTY_VERSUS_VERTEBROPLASTY_XRAY_SPINE/3.compression-fracture-2.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ballon khyphoplasty versus vertebroplasty",
+                "BALLON KHYPHOPLASTY VERSUS VERTEBROPLASTY",
+                "Ballon khyphoplasty versus vertebroplasty"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BALLON_KHYPHOPLASTY_VERSUS_VERTEBROPLASTY_XRAY_SPINE/4.procedures-kyphoplasty.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ballon khyphoplasty versus vertebroplasty",
+                "BALLON KHYPHOPLASTY VERSUS VERTEBROPLASTY",
+                "Ballon khyphoplasty versus vertebroplasty"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BALLON_KHYPHOPLASTY_VERSUS_VERTEBROPLASTY_XRAY_SPINE/2.vertebroplasty_post_shutterstock_171616133.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ballon khyphoplasty versus vertebroplasty",
+                "BALLON KHYPHOPLASTY VERSUS VERTEBROPLASTY",
+                "Ballon khyphoplasty versus vertebroplasty"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMATOUS_CYST_OF_EYE_CT/4.f882b23207b3169c306f10ce63c280_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "colobomatous cyst of eye",
+                "COLOBOMATOUS CYST OF EYE",
+                "Colobomatous cyst of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMATOUS_CYST_OF_EYE_CT/2.fda5392408f118e4d063264415f0b3_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "colobomatous cyst of eye",
+                "COLOBOMATOUS CYST OF EYE",
+                "Colobomatous cyst of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMATOUS_CYST_OF_EYE_CT/3.f7bae04fbd41bf4646d48c602658c0_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "colobomatous cyst of eye",
+                "COLOBOMATOUS CYST OF EYE",
+                "Colobomatous cyst of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMATOUS_CYST_OF_EYE_CT/1.2c8542ef672399b25d60fe495a4d8e_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "colobomatous cyst of eye",
+                "COLOBOMATOUS CYST OF EYE",
+                "Colobomatous cyst of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMATOUS_CYST_OF_EYE_CT/5.a38f218d94aa609687a3b1bdd21ee3_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "colobomatous cyst of eye",
+                "COLOBOMATOUS CYST OF EYE",
+                "Colobomatous cyst of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EWINGS_SARCOMA_XRAY/5.c5844597511334de4d8768df838a2792--work-hard-hard-to.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ewings sarcoma",
+                "EWINGS SARCOMA",
+                "Ewings sarcoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EWINGS_SARCOMA_XRAY/1.da77f27fe5385404d094672f111ad0.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ewings sarcoma",
+                "EWINGS SARCOMA",
+                "Ewings sarcoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EWINGS_SARCOMA_XRAY/4.a8ab4fc5e84a3557334906c27af7de.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ewings sarcoma",
+                "EWINGS SARCOMA",
+                "Ewings sarcoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EWINGS_SARCOMA_XRAY/3.218e63c15a980c3cfd79162a336673.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ewings sarcoma",
+                "EWINGS SARCOMA",
+                "Ewings sarcoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EWINGS_SARCOMA_XRAY/2.701d7b8d7ba63916c7e760b9bc7b11.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ewings sarcoma",
+                "EWINGS SARCOMA",
+                "Ewings sarcoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/FAT_PAD_SIGN_ELBOW_LATERAL_VIEW_OF_ELBOW/5.7483218866_239a1420a5_z.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "fat pad sign elbow",
+                "FAT PAD SIGN ELBOW",
+                "Fat pad sign elbow"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/FAT_PAD_SIGN_ELBOW_LATERAL_VIEW_OF_ELBOW/2.Lateral-view-of-the-right-elbow-shows-soft-tissue-swelling-with-a-positive-fat-pad-sign.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "fat pad sign elbow",
+                "FAT PAD SIGN ELBOW",
+                "Fat pad sign elbow"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/FAT_PAD_SIGN_ELBOW_LATERAL_VIEW_OF_ELBOW/3.lightbox_bfaa66c0f00111e9ac36474a2c84dee0-4-ROUSS-fat-pad-1600.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "fat pad sign elbow",
+                "FAT PAD SIGN ELBOW",
+                "Fat pad sign elbow"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/FAT_PAD_SIGN_ELBOW_LATERAL_VIEW_OF_ELBOW/1.elbow_fat_pad_sign.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "fat pad sign elbow",
+                "FAT PAD SIGN ELBOW",
+                "Fat pad sign elbow"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/FAT_PAD_SIGN_ELBOW_LATERAL_VIEW_OF_ELBOW/4.Elbow-normal-anterior-fat-pad.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "fat pad sign elbow",
+                "FAT PAD SIGN ELBOW",
+                "Fat pad sign elbow"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ROBERTS_SIGN_INFANTOGRAM/2.687182f7e5b803063f689fd2ec2fa388.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "roberts sign",
+                "ROBERTS SIGN",
+                "Roberts sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ROBERTS_SIGN_INFANTOGRAM/5.6d4cf74c1beae14f10975be720e4f0_thumb.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "roberts sign",
+                "ROBERTS SIGN",
+                "Roberts sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ROBERTS_SIGN_INFANTOGRAM/1.hqdefault.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "roberts sign",
+                "ROBERTS SIGN",
+                "Roberts sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ROBERTS_SIGN_INFANTOGRAM/4.hqdefault.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "roberts sign",
+                "ROBERTS SIGN",
+                "Roberts sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ROBERTS_SIGN_INFANTOGRAM/3.hqdefault.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "roberts sign",
+                "ROBERTS SIGN",
+                "Roberts sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/METAPHYSEAL_CORNER_FRACTURE/BUCKET_HANDLE_FRACTURE_XRAY/1.9dd433fda2660a0aa4e19d1836a259.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "metaphyseal corner fracture",
+                "METAPHYSEAL CORNER FRACTURE",
+                "Metaphyseal corner fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/METAPHYSEAL_CORNER_FRACTURE/BUCKET_HANDLE_FRACTURE_XRAY/2.Bucket-handle-fracture-Radiographs-of-the-right-knee-in-a-10-month-old-infant-who-was-a.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "metaphyseal corner fracture",
+                "METAPHYSEAL CORNER FRACTURE",
+                "Metaphyseal corner fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/METAPHYSEAL_CORNER_FRACTURE/BUCKET_HANDLE_FRACTURE_XRAY/5.Corner+fx+-+xray.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "metaphyseal corner fracture",
+                "METAPHYSEAL CORNER FRACTURE",
+                "Metaphyseal corner fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/METAPHYSEAL_CORNER_FRACTURE/BUCKET_HANDLE_FRACTURE_XRAY/3.bucket-handle-and-corner-Fxs.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "metaphyseal corner fracture",
+                "METAPHYSEAL CORNER FRACTURE",
+                "Metaphyseal corner fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/METAPHYSEAL_CORNER_FRACTURE/BUCKET_HANDLE_FRACTURE_XRAY/4.9dd433fda2660a0aa4e19d1836a259_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "metaphyseal corner fracture",
+                "METAPHYSEAL CORNER FRACTURE",
+                "Metaphyseal corner fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THROMBOSED_BASILAR_ARTERY_HYPERDENSE_ON_NCCT/5.6aebfe220ea79bfa573bd7d1928b96_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thrombosed basilar artery hyperdense",
+                "THROMBOSED BASILAR ARTERY HYPERDENSE",
+                "Thrombosed basilar artery hyperdense"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THROMBOSED_BASILAR_ARTERY_HYPERDENSE_ON_NCCT/1.2823fd5646a69a08e7221efecbd1f8_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thrombosed basilar artery hyperdense",
+                "THROMBOSED BASILAR ARTERY HYPERDENSE",
+                "Thrombosed basilar artery hyperdense"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THROMBOSED_BASILAR_ARTERY_HYPERDENSE_ON_NCCT/2.neurology-thrombosis-basilar-artery-headct-original.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thrombosed basilar artery hyperdense",
+                "THROMBOSED BASILAR ARTERY HYPERDENSE",
+                "Thrombosed basilar artery hyperdense"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THROMBOSED_BASILAR_ARTERY_HYPERDENSE_ON_NCCT/4.ad6fb1db7111c23d5319866cff20d6_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thrombosed basilar artery hyperdense",
+                "THROMBOSED BASILAR ARTERY HYPERDENSE",
+                "Thrombosed basilar artery hyperdense"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THROMBOSED_BASILAR_ARTERY_HYPERDENSE_ON_NCCT/3.06e641f4730e44b32cca3600663622_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thrombosed basilar artery hyperdense",
+                "THROMBOSED BASILAR ARTERY HYPERDENSE",
+                "Thrombosed basilar artery hyperdense"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THYMOLIPOMA_CT_CHEST_AND_MRI/1.17021tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thymolipoma",
+                "THYMOLIPOMA",
+                "Thymolipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THYMOLIPOMA_CT_CHEST_AND_MRI/2.Thymolipoma-Axial-CT-section-shows-a-large-insinuating-retrosternal-mass-with-areas-of_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thymolipoma",
+                "THYMOLIPOMA",
+                "Thymolipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THYMOLIPOMA_CT_CHEST_AND_MRI/3.Picture20746162031250.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thymolipoma",
+                "THYMOLIPOMA",
+                "Thymolipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THYMOLIPOMA_CT_CHEST_AND_MRI/5.c72c98a6bc22041a7911ce9e4f81d954.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thymolipoma",
+                "THYMOLIPOMA",
+                "Thymolipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/THYMOLIPOMA_CT_CHEST_AND_MRI/4.a509797a91229b_16-thymolipoma.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "thymolipoma",
+                "THYMOLIPOMA",
+                "Thymolipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PDA_CLOSURE_DEVICE_AMPLATZ+XRAY/1.Preoperative-X-ray-image-with-migrated-Amplatzer-duct-occluder-shape-in-the-left.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pda closure device",
+                "PDA CLOSURE DEVICE",
+                "Pda closure device"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PDA_CLOSURE_DEVICE_AMPLATZ+XRAY/5.PMC3516986_WIITM-7-18270-g001.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pda closure device",
+                "PDA CLOSURE DEVICE",
+                "Pda closure device"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PDA_CLOSURE_DEVICE_AMPLATZ+XRAY/4.One-day-after-the-procedure-the-embolized-Amplatzer-device-AGA-Medical-Corp-Golden.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pda closure device",
+                "PDA CLOSURE DEVICE",
+                "Pda closure device"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PDA_CLOSURE_DEVICE_AMPLATZ+XRAY/2.fe4e7963644c452b695b222fa0a1a0.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pda closure device",
+                "PDA CLOSURE DEVICE",
+                "Pda closure device"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PDA_CLOSURE_DEVICE_AMPLATZ+XRAY/3.2199c767eca0ba3ac4f6a1d6bddcef.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pda closure device",
+                "PDA CLOSURE DEVICE",
+                "Pda closure device"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATLANTO_OCCIPITAL_DISSOCIATION_INJURIES_ATLANTO_OCCIPITAL_DISLOCATION+ATLANTO_OCCIPITAL_SUBLUXATION=LATERAL_XRAY_CERVICAL_SPINE/1.1e4a251c59efbb11330abb446c6fcd_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atlanto occipital dissociation injuries",
+                "ATLANTO OCCIPITAL DISSOCIATION INJURIES",
+                "Atlanto occipital dissociation injuries"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATLANTO_OCCIPITAL_DISSOCIATION_INJURIES_ATLANTO_OCCIPITAL_DISLOCATION+ATLANTO_OCCIPITAL_SUBLUXATION=LATERAL_XRAY_CERVICAL_SPINE/4.F2.large.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atlanto occipital dissociation injuries",
+                "ATLANTO OCCIPITAL DISSOCIATION INJURIES",
+                "Atlanto occipital dissociation injuries"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATLANTO_OCCIPITAL_DISSOCIATION_INJURIES_ATLANTO_OCCIPITAL_DISLOCATION+ATLANTO_OCCIPITAL_SUBLUXATION=LATERAL_XRAY_CERVICAL_SPINE/2.43256475744_caafbb0fe6_b.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atlanto occipital dissociation injuries",
+                "ATLANTO OCCIPITAL DISSOCIATION INJURIES",
+                "Atlanto occipital dissociation injuries"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATLANTO_OCCIPITAL_DISSOCIATION_INJURIES_ATLANTO_OCCIPITAL_DISLOCATION+ATLANTO_OCCIPITAL_SUBLUXATION=LATERAL_XRAY_CERVICAL_SPINE/5.Neck-pain-anatomy-Xray-AP.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atlanto occipital dissociation injuries",
+                "ATLANTO OCCIPITAL DISSOCIATION INJURIES",
+                "Atlanto occipital dissociation injuries"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATLANTO_OCCIPITAL_DISSOCIATION_INJURIES_ATLANTO_OCCIPITAL_DISLOCATION+ATLANTO_OCCIPITAL_SUBLUXATION=LATERAL_XRAY_CERVICAL_SPINE/3.imaging-of-spinal-trauma-80-638.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atlanto occipital dissociation injuries",
+                "ATLANTO OCCIPITAL DISSOCIATION INJURIES",
+                "Atlanto occipital dissociation injuries"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SURGICALLY_CREATED_AVF_IN_ARM_FOR_DIALYSIS/5.arteriovenous-fistula-creation-dialysis-access-img.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "surgically created avf in arm",
+                "SURGICALLY CREATED AVF IN ARM",
+                "Surgically created avf in arm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SURGICALLY_CREATED_AVF_IN_ARM_FOR_DIALYSIS/3.Hemodialysis_AV_Graft_MED_ILL_EN.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "surgically created avf in arm",
+                "SURGICALLY CREATED AVF IN ARM",
+                "Surgically created avf in arm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SURGICALLY_CREATED_AVF_IN_ARM_FOR_DIALYSIS/4.dt_150430_arteriovenous_fistula_1_800x600.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "surgically created avf in arm",
+                "SURGICALLY CREATED AVF IN ARM",
+                "Surgically created avf in arm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SURGICALLY_CREATED_AVF_IN_ARM_FOR_DIALYSIS/2.7a971dc4f730e24e7f02fd8d6c2966ff.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "surgically created avf in arm",
+                "SURGICALLY CREATED AVF IN ARM",
+                "Surgically created avf in arm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SURGICALLY_CREATED_AVF_IN_ARM_FOR_DIALYSIS/1.Dialysis_Access_01_Base.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "surgically created avf in arm",
+                "SURGICALLY CREATED AVF IN ARM",
+                "Surgically created avf in arm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MAISONNEUVE_FRACTURE_XRAY/5.7db131987ad96eb5fb4f7b0b60131d.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "maisonneuve fracture",
+                "MAISONNEUVE FRACTURE",
+                "Maisonneuve fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MAISONNEUVE_FRACTURE_XRAY/4.EMR021516fig16.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "maisonneuve fracture",
+                "MAISONNEUVE FRACTURE",
+                "Maisonneuve fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MAISONNEUVE_FRACTURE_XRAY/2.AnkleSublux.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "maisonneuve fracture",
+                "MAISONNEUVE FRACTURE",
+                "Maisonneuve fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MAISONNEUVE_FRACTURE_XRAY/1.38ecaf404b706d3fa6d77d34ceb2b9_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "maisonneuve fracture",
+                "MAISONNEUVE FRACTURE",
+                "Maisonneuve fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MAISONNEUVE_FRACTURE_XRAY/3.76fd2f8b118906b25c87829b884998.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "maisonneuve fracture",
+                "MAISONNEUVE FRACTURE",
+                "Maisonneuve fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/AURORA_SIGN_USG_ABDOMEN/5.mellss-surgery-y3-intestinal-obstruction-17-638.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "aurora sign",
+                "AURORA SIGN",
+                "Aurora sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/AURORA_SIGN_USG_ABDOMEN/2.PMC2766887_IJRI-19-252-g001.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "aurora sign",
+                "AURORA SIGN",
+                "Aurora sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/AURORA_SIGN_USG_ABDOMEN/3.abdominal-tuberculosis-dr-syed-obaid-34-638.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "aurora sign",
+                "AURORA SIGN",
+                "Aurora sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/AURORA_SIGN_USG_ABDOMEN/4.figure_3.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "aurora sign",
+                "AURORA SIGN",
+                "Aurora sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/AURORA_SIGN_USG_ABDOMEN/1.f042031582f0114ec214c3570d46f14f.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "aurora sign",
+                "AURORA SIGN",
+                "Aurora sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EMPYEMA_NECESSITANS_CT_CHEST/2.3259307_13244_2010_39_Fig14_HTML.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "empyema necessitans",
+                "EMPYEMA NECESSITANS",
+                "Empyema necessitans"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EMPYEMA_NECESSITANS_CT_CHEST/5.CT-scan-of-left-empyema-with-pleural-enhancement-a-and-suspended-air-bubbles-b.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "empyema necessitans",
+                "EMPYEMA NECESSITANS",
+                "Empyema necessitans"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EMPYEMA_NECESSITANS_CT_CHEST/1.EMPYEMA-CHEST-CT-e1463839333298.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "empyema necessitans",
+                "EMPYEMA NECESSITANS",
+                "Empyema necessitans"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EMPYEMA_NECESSITANS_CT_CHEST/3.empyema-necessitans-11-638.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "empyema necessitans",
+                "EMPYEMA NECESSITANS",
+                "Empyema necessitans"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EMPYEMA_NECESSITANS_CT_CHEST/4.Pleural-and-chest-wall-tuberculosis-empyema-necessitatis-in-a-73-year-old-woman.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "empyema necessitans",
+                "EMPYEMA NECESSITANS",
+                "Empyema necessitans"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OLIVOPONTOCEREBELLAR_DEGENERATION_MULTIPLE_SYSTEM_ATROPHY+MRI_BRAIN/1.Brain-MRI-of-a-patient-with-multiple-system-atrophy-cerebellar-form-MSA-C-Axial.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "olivopontocerebellar degeneration",
+                "OLIVOPONTOCEREBELLAR DEGENERATION",
+                "Olivopontocerebellar degeneration"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OLIVOPONTOCEREBELLAR_DEGENERATION_MULTIPLE_SYSTEM_ATROPHY+MRI_BRAIN/3.89c75e7594bd38029301116ea97351.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "olivopontocerebellar degeneration",
+                "OLIVOPONTOCEREBELLAR DEGENERATION",
+                "Olivopontocerebellar degeneration"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OLIVOPONTOCEREBELLAR_DEGENERATION_MULTIPLE_SYSTEM_ATROPHY+MRI_BRAIN/4.sag+T1.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "olivopontocerebellar degeneration",
+                "OLIVOPONTOCEREBELLAR DEGENERATION",
+                "Olivopontocerebellar degeneration"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OLIVOPONTOCEREBELLAR_DEGENERATION_MULTIPLE_SYSTEM_ATROPHY+MRI_BRAIN/5.1b7921aa0c6576f5f62112f109ab60ee.gif",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "olivopontocerebellar degeneration",
+                "OLIVOPONTOCEREBELLAR DEGENERATION",
+                "Olivopontocerebellar degeneration"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OLIVOPONTOCEREBELLAR_DEGENERATION_MULTIPLE_SYSTEM_ATROPHY+MRI_BRAIN/2.Ax+FLAIR.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "olivopontocerebellar degeneration",
+                "OLIVOPONTOCEREBELLAR DEGENERATION",
+                "Olivopontocerebellar degeneration"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUPERFICIAL_SIDEROSIS_MRI_BRAIN/4.Superficial+Siderosis+Cerebellum+Atropy.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "superficial siderosis",
+                "SUPERFICIAL SIDEROSIS",
+                "Superficial siderosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUPERFICIAL_SIDEROSIS_MRI_BRAIN/1.Superficial+Siderosis+Brain.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "superficial siderosis",
+                "SUPERFICIAL SIDEROSIS",
+                "Superficial siderosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUPERFICIAL_SIDEROSIS_MRI_BRAIN/5.MRI-of-the-brain-showing-superficial-siderosis-after-VP-shunt-T2-weighted-sequence-A.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "superficial siderosis",
+                "SUPERFICIAL SIDEROSIS",
+                "Superficial siderosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUPERFICIAL_SIDEROSIS_MRI_BRAIN/3.Brain-MRI-of-a-patient-with-superficial-siderosis-Axial-T2-weighted-sequence-linear.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "superficial siderosis",
+                "SUPERFICIAL SIDEROSIS",
+                "Superficial siderosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUPERFICIAL_SIDEROSIS_MRI_BRAIN/2.superficial+siderosis+MRI+Brain+T2GRE.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "superficial siderosis",
+                "SUPERFICIAL SIDEROSIS",
+                "Superficial siderosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ECTRODACTYLY_LOBSTER_CLAW_HAND_DEFORMITY/1.1666099.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ectrodactyly lobster claw hand deformity",
+                "ECTRODACTYLY LOBSTER CLAW HAND DEFORMITY",
+                "Ectrodactyly lobster claw hand deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ECTRODACTYLY_LOBSTER_CLAW_HAND_DEFORMITY/4.The-Lobster-claw-Symptom.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ectrodactyly lobster claw hand deformity",
+                "ECTRODACTYLY LOBSTER CLAW HAND DEFORMITY",
+                "Ectrodactyly lobster claw hand deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ECTRODACTYLY_LOBSTER_CLAW_HAND_DEFORMITY/5.ectrodactyly1-300x225.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ectrodactyly lobster claw hand deformity",
+                "ECTRODACTYLY LOBSTER CLAW HAND DEFORMITY",
+                "Ectrodactyly lobster claw hand deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ECTRODACTYLY_LOBSTER_CLAW_HAND_DEFORMITY/2.150px-Main_droite_1_an.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ectrodactyly lobster claw hand deformity",
+                "ECTRODACTYLY LOBSTER CLAW HAND DEFORMITY",
+                "Ectrodactyly lobster claw hand deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ECTRODACTYLY_LOBSTER_CLAW_HAND_DEFORMITY/3.c26886536f1e096a3798738413240bdb.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ectrodactyly lobster claw hand deformity",
+                "ECTRODACTYLY LOBSTER CLAW HAND DEFORMITY",
+                "Ectrodactyly lobster claw hand deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOT_CROSS_BUN_SIGN_AXIAL_T2_MRI/4.Axial-T2-weighted-MR-imaging-sequence-in-a-patient-with-MSA-with-predominant-cerebellar.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hot cross bun sign",
+                "HOT CROSS BUN SIGN",
+                "Hot cross bun sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOT_CROSS_BUN_SIGN_AXIAL_T2_MRI/2.000001.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hot cross bun sign",
+                "HOT CROSS BUN SIGN",
+                "Hot cross bun sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOT_CROSS_BUN_SIGN_AXIAL_T2_MRI/5.1f1374a7c8ec8429fd3b27be47b012bf.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hot cross bun sign",
+                "HOT CROSS BUN SIGN",
+                "Hot cross bun sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOT_CROSS_BUN_SIGN_AXIAL_T2_MRI/1.f2559f471586f87fb0f70e693bf507f0.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hot cross bun sign",
+                "HOT CROSS BUN SIGN",
+                "Hot cross bun sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOT_CROSS_BUN_SIGN_AXIAL_T2_MRI/3.ni_2011_59_2_266_79143_u1.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "hot cross bun sign",
+                "HOT CROSS BUN SIGN",
+                "Hot cross bun sign"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/3.Sudecks-Atrophy.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sudecks dystrophy",
+                "SUDECKS DYSTROPHY",
+                "Sudecks dystrophy"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/1.cd36d5fb97594970c867346118e28c.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sudecks dystrophy",
+                "SUDECKS DYSTROPHY",
+                "Sudecks dystrophy"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/4.pm_general_crps_intro01.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sudecks dystrophy",
+                "SUDECKS DYSTROPHY",
+                "Sudecks dystrophy"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/2.Complex-Regional-Pain-Syndrome.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sudecks dystrophy",
+                "SUDECKS DYSTROPHY",
+                "Sudecks dystrophy"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/5.Reflex-Sympathetic-Dystrophy.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sudecks dystrophy",
+                "SUDECKS DYSTROPHY",
+                "Sudecks dystrophy"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAUDAL_REGRESSION_SYNDROME_XRAY+MRI/4.a8c3117078ead64ab1e29e59686546_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caudal regression syndrome",
+                "CAUDAL REGRESSION SYNDROME",
+                "Caudal regression syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAUDAL_REGRESSION_SYNDROME_XRAY+MRI/3.072bcf927238646d4e1befc8142f44_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caudal regression syndrome",
+                "CAUDAL REGRESSION SYNDROME",
+                "Caudal regression syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAUDAL_REGRESSION_SYNDROME_XRAY+MRI/5.cd3ca41ccce17b53518841661e9aac_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caudal regression syndrome",
+                "CAUDAL REGRESSION SYNDROME",
+                "Caudal regression syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAUDAL_REGRESSION_SYNDROME_XRAY+MRI/1.570f789c58eedc1facad9250b381a7_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caudal regression syndrome",
+                "CAUDAL REGRESSION SYNDROME",
+                "Caudal regression syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAUDAL_REGRESSION_SYNDROME_XRAY+MRI/2.e6cde7a972a4468b7f56c34b122dd4_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caudal regression syndrome",
+                "CAUDAL REGRESSION SYNDROME",
+                "Caudal regression syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TUBULAR_RIBS_XRAY/3.Whole-spine-postoperative-standing-X-ray-images-showing-the-reconstruction-of-deformity.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tubular ribs",
+                "TUBULAR RIBS",
+                "Tubular ribs"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TUBULAR_RIBS_XRAY/1.f45748f9cfaecdc5f0ab723c2d62be.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tubular ribs",
+                "TUBULAR RIBS",
+                "Tubular ribs"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TUBULAR_RIBS_XRAY/2.b9c66a491406b8ff27ecca405ce1f5.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tubular ribs",
+                "TUBULAR RIBS",
+                "Tubular ribs"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TUBULAR_RIBS_XRAY/4.PMC4153169_Tanaffos-10-060-g002.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tubular ribs",
+                "TUBULAR RIBS",
+                "Tubular ribs"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TUBULAR_RIBS_XRAY/5.f8772e90c3e15268adaf0b5b2da955.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tubular ribs",
+                "TUBULAR RIBS",
+                "Tubular ribs"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBMUCOSAL_FIBROID_HSG/5.Submucosal-Fibroid-e1425088432982-1-ovgr13cgzna97ac9lhv709rct5sh3t0z0ag9vheigy.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "submucosal fibroid",
+                "SUBMUCOSAL FIBROID",
+                "Submucosal fibroid"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBMUCOSAL_FIBROID_HSG/3.PMC3097785_biij-05-e29-g03.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "submucosal fibroid",
+                "SUBMUCOSAL FIBROID",
+                "Submucosal fibroid"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBMUCOSAL_FIBROID_HSG/2.ff76080b0b2a05b1ed55d321ecec62_thumb.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "submucosal fibroid",
+                "SUBMUCOSAL FIBROID",
+                "Submucosal fibroid"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBMUCOSAL_FIBROID_HSG/4.myomectomy-01.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "submucosal fibroid",
+                "SUBMUCOSAL FIBROID",
+                "Submucosal fibroid"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBMUCOSAL_FIBROID_HSG/1.Submucosal-fibroids-Hysterosalpingogram-shows-a.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "submucosal fibroid",
+                "SUBMUCOSAL FIBROID",
+                "Submucosal fibroid"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PNEUMOSINUS_DILATANS_WITH_CALCIFIED_MENINGIOMA_ON_LAT_SKULL_XRAY/2.038791d2b76ffa295bad0229ba74c7_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pneumosinus dilatans with calcified meningioma",
+                "PNEUMOSINUS DILATANS WITH CALCIFIED MENINGIOMA",
+                "Pneumosinus dilatans with calcified meningioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PNEUMOSINUS_DILATANS_WITH_CALCIFIED_MENINGIOMA_ON_LAT_SKULL_XRAY/1.NORMAL-LATERAL-SKULL-RADIOGRAPH.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pneumosinus dilatans with calcified meningioma",
+                "PNEUMOSINUS DILATANS WITH CALCIFIED MENINGIOMA",
+                "Pneumosinus dilatans with calcified meningioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PNEUMOSINUS_DILATANS_WITH_CALCIFIED_MENINGIOMA_ON_LAT_SKULL_XRAY/4.28710db8d82834c0eda62c62764fae.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pneumosinus dilatans with calcified meningioma",
+                "PNEUMOSINUS DILATANS WITH CALCIFIED MENINGIOMA",
+                "Pneumosinus dilatans with calcified meningioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PNEUMOSINUS_DILATANS_WITH_CALCIFIED_MENINGIOMA_ON_LAT_SKULL_XRAY/5.1333a4be088cc4aee6d5d14c24d986_jumbo.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pneumosinus dilatans with calcified meningioma",
+                "PNEUMOSINUS DILATANS WITH CALCIFIED MENINGIOMA",
+                "Pneumosinus dilatans with calcified meningioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PNEUMOSINUS_DILATANS_WITH_CALCIFIED_MENINGIOMA_ON_LAT_SKULL_XRAY/3.NORMAL-AP-AND-LL-SKULL-X-RAY.gif",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pneumosinus dilatans with calcified meningioma",
+                "PNEUMOSINUS DILATANS WITH CALCIFIED MENINGIOMA",
+                "Pneumosinus dilatans with calcified meningioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DUVERNEY_FRACTURE_XRAY/3.5b1fdabc758ed941f8172c637d95b1_gallery.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "duverney fracture",
+                "DUVERNEY FRACTURE",
+                "Duverney fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DUVERNEY_FRACTURE_XRAY/1.5836d4ece6f4bdddf40e089c77e6ad.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "duverney fracture",
+                "DUVERNEY FRACTURE",
+                "Duverney fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DUVERNEY_FRACTURE_XRAY/2.5836d4ece6f4bdddf40e089c77e6ad_gallery.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "duverney fracture",
+                "DUVERNEY FRACTURE",
+                "Duverney fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DUVERNEY_FRACTURE_XRAY/4.ca7eae3376f9329c54be86b8edd9b1.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "duverney fracture",
+                "DUVERNEY FRACTURE",
+                "Duverney fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DUVERNEY_FRACTURE_XRAY/5.e73f8b0ed545975bbd802626847679.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "duverney fracture",
+                "DUVERNEY FRACTURE",
+                "Duverney fracture"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SQUAMOUS_CELL_CA_OF_EXTERNAL_EAR_CT/5.1e7d3570dcc6f554ea05053761ff8a_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "squamous cell ca of external ear",
+                "SQUAMOUS CELL CA OF EXTERNAL EAR",
+                "Squamous cell ca of external ear"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SQUAMOUS_CELL_CA_OF_EXTERNAL_EAR_CT/4.140b18c5931ce13e86e06e94251f32_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "squamous cell ca of external ear",
+                "SQUAMOUS CELL CA OF EXTERNAL EAR",
+                "Squamous cell ca of external ear"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SQUAMOUS_CELL_CA_OF_EXTERNAL_EAR_CT/3.ce208470466b55f8f1077451b5424b_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "squamous cell ca of external ear",
+                "SQUAMOUS CELL CA OF EXTERNAL EAR",
+                "Squamous cell ca of external ear"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SQUAMOUS_CELL_CA_OF_EXTERNAL_EAR_CT/1.933eb9b8bf52007de8f676169f9dbd_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "squamous cell ca of external ear",
+                "SQUAMOUS CELL CA OF EXTERNAL EAR",
+                "Squamous cell ca of external ear"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SQUAMOUS_CELL_CA_OF_EXTERNAL_EAR_CT/2.c5c6387fda4f8d67ee405b5540c984_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "squamous cell ca of external ear",
+                "SQUAMOUS CELL CA OF EXTERNAL EAR",
+                "Squamous cell ca of external ear"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOLT_ORAM_SYNDROME_XRAY/4.Fig-5-Anteroposterior-X-ray-of-a-patient-affected-by-TAR-syndrome-showing-complete_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "holt oram syndrome",
+                "HOLT ORAM SYNDROME",
+                "Holt oram syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOLT_ORAM_SYNDROME_XRAY/5.30e859d5587827753bf0226a377a08.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "holt oram syndrome",
+                "HOLT ORAM SYNDROME",
+                "Holt oram syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOLT_ORAM_SYNDROME_XRAY/3.1bb44b28f2c90fe21c2c2d0f428092.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "holt oram syndrome",
+                "HOLT ORAM SYNDROME",
+                "Holt oram syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOLT_ORAM_SYNDROME_XRAY/2.8b700f3ff13d828e35eca68a5f40fe.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "holt oram syndrome",
+                "HOLT ORAM SYNDROME",
+                "Holt oram syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HOLT_ORAM_SYNDROME_XRAY/1.8-X-ray-showing-features-of-Holt-Oram-Syndrome.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "holt oram syndrome",
+                "HOLT ORAM SYNDROME",
+                "Holt oram syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CONGENITAL_HYPOTHYROIDISM_XRAY/2.C0239854-Congenital_hypothyroidism,_X-ray.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "congenital hypothyroidism",
+                "CONGENITAL HYPOTHYROIDISM",
+                "Congenital hypothyroidism"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CONGENITAL_HYPOTHYROIDISM_XRAY/3.congenital-hypothyroidism-presenting-with-myxedema-coma-10-728.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "congenital hypothyroidism",
+                "CONGENITAL HYPOTHYROIDISM",
+                "Congenital hypothyroidism"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CONGENITAL_HYPOTHYROIDISM_XRAY/1.Skeletal-consequences-of-severe-juvenile-hypothyroidism-X-rays-from-a-36-year-old-female.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "congenital hypothyroidism",
+                "CONGENITAL HYPOTHYROIDISM",
+                "Congenital hypothyroidism"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CONGENITAL_HYPOTHYROIDISM_XRAY/4.congenital-hypothyroidism-presenting-with-myxedema-coma-12-728.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "congenital hypothyroidism",
+                "CONGENITAL HYPOTHYROIDISM",
+                "Congenital hypothyroidism"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CONGENITAL_HYPOTHYROIDISM_XRAY/5.image4.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "congenital hypothyroidism",
+                "CONGENITAL HYPOTHYROIDISM",
+                "Congenital hypothyroidism"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_LIPOMA_CECT_ABDOMEN/3.7d953aca4c44c0f8da9c1b94dd41c0_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal lipoma",
+                "CAECAL LIPOMA",
+                "Caecal lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_LIPOMA_CECT_ABDOMEN/4.b573f5dba3e52cbfb618fbc1debddc_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal lipoma",
+                "CAECAL LIPOMA",
+                "Caecal lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_LIPOMA_CECT_ABDOMEN/2.a869bf99419485cd295a5c209cae30_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal lipoma",
+                "CAECAL LIPOMA",
+                "Caecal lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_LIPOMA_CECT_ABDOMEN/5.a67d280c1dd7544212e5de8ea4fc0b_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal lipoma",
+                "CAECAL LIPOMA",
+                "Caecal lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_LIPOMA_CECT_ABDOMEN/1.d758be39f1499629cb905cb7914ec5_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal lipoma",
+                "CAECAL LIPOMA",
+                "Caecal lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SINUS_PERICRANI/5.2e2d41474b5c9ff5d531ee2051f48a.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sinus pericrani",
+                "SINUS PERICRANI",
+                "Sinus pericrani"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SINUS_PERICRANI/3.a0aef0578ddcd61a55af99eab7f165.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sinus pericrani",
+                "SINUS PERICRANI",
+                "Sinus pericrani"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SINUS_PERICRANI/1.e3b4458d855f7bc740c05e1f6437ef.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sinus pericrani",
+                "SINUS PERICRANI",
+                "Sinus pericrani"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SINUS_PERICRANI/2.b53957ba2ece7c18ca7b8790a4e2ab.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sinus pericrani",
+                "SINUS PERICRANI",
+                "Sinus pericrani"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SINUS_PERICRANI/4.13ffe054fb9461ebe94c8f79ab9390_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sinus pericrani",
+                "SINUS PERICRANI",
+                "Sinus pericrani"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ADENOMYOMATOSIS_GB/4.cache_4215575868.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "adenomyomatosis",
+                "ADENOMYOMATOSIS",
+                "Adenomyomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ADENOMYOMATOSIS_GB/2.gb_adenomyomatosis1344306681741.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "adenomyomatosis",
+                "ADENOMYOMATOSIS",
+                "Adenomyomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ADENOMYOMATOSIS_GB/5.cache_4215575869.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "adenomyomatosis",
+                "ADENOMYOMATOSIS",
+                "Adenomyomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ADENOMYOMATOSIS_GB/3.bc2b9d96e1b9b06bb3769d58d9267e7e.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "adenomyomatosis",
+                "ADENOMYOMATOSIS",
+                "Adenomyomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ADENOMYOMATOSIS_GB/1.maxresdefault.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "adenomyomatosis",
+                "ADENOMYOMATOSIS",
+                "Adenomyomatosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/LUCKENSCHADEL/LACUNAR_SKULL/1.b097282f131db5ce2f73dad8890ef4.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "luckenschadel",
+                "LUCKENSCHADEL",
+                "Luckenschadel"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/LUCKENSCHADEL/LACUNAR_SKULL/2.c3f0881c6c518bc7aa4048ccfc8bdf_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "luckenschadel",
+                "LUCKENSCHADEL",
+                "Luckenschadel"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/LUCKENSCHADEL/LACUNAR_SKULL/3.15f209a64c8140a47523972af14e44_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "luckenschadel",
+                "LUCKENSCHADEL",
+                "Luckenschadel"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/LUCKENSCHADEL/LACUNAR_SKULL/5.bd8e0ed3694cf29ec70f903e3bebd1_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "luckenschadel",
+                "LUCKENSCHADEL",
+                "Luckenschadel"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/LUCKENSCHADEL/LACUNAR_SKULL/4.luckenschadel-skull.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "luckenschadel",
+                "LUCKENSCHADEL",
+                "Luckenschadel"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIALOLITHIASIS_SIALOGRAPHY/2.Whartons-duct-sialolithiasis-MR-TSE-T2-A-SE-T1-B-and-MR-sialography-maximum.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sialolithiasis",
+                "SIALOLITHIASIS",
+                "Sialolithiasis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIALOLITHIASIS_SIALOGRAPHY/1.Sialolithiasis-Sialography-Right-submandibular-duct-sialogram-in-a-36-year-old-female.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sialolithiasis",
+                "SIALOLITHIASIS",
+                "Sialolithiasis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIALOLITHIASIS_SIALOGRAPHY/3.SIALOLITH_MRsial_0722.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sialolithiasis",
+                "SIALOLITHIASIS",
+                "Sialolithiasis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIALOLITHIASIS_SIALOGRAPHY/4.sialolithiasis-and-its-management-in-oral-and-maxillofacial-surgery-26-638.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sialolithiasis",
+                "SIALOLITHIASIS",
+                "Sialolithiasis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIALOLITHIASIS_SIALOGRAPHY/5.sialolithiasis-and-its-management-in-oral-and-maxillofacial-surgery-23-638.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sialolithiasis",
+                "SIALOLITHIASIS",
+                "Sialolithiasis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRUNE_BELLY_SYNDROME_XRAY/1.0824143f8e389c9a0af08ccaa78e18_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "prune belly syndrome",
+                "PRUNE BELLY SYNDROME",
+                "Prune belly syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRUNE_BELLY_SYNDROME_XRAY/3.d880a5a549aea19c7eebadc3a35c8b_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "prune belly syndrome",
+                "PRUNE BELLY SYNDROME",
+                "Prune belly syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRUNE_BELLY_SYNDROME_XRAY/2.PRUNE-BELLY-SYNDROME.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "prune belly syndrome",
+                "PRUNE BELLY SYNDROME",
+                "Prune belly syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRUNE_BELLY_SYNDROME_XRAY/4.22237tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "prune belly syndrome",
+                "PRUNE BELLY SYNDROME",
+                "Prune belly syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRUNE_BELLY_SYNDROME_XRAY/5.22238tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "prune belly syndrome",
+                "PRUNE BELLY SYNDROME",
+                "Prune belly syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COPPER_BEATEN_SKULL/2.e72f0b016e8a477d475a4a05c29f1e3d.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "copper beaten skull",
+                "COPPER BEATEN SKULL",
+                "Copper beaten skull"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COPPER_BEATEN_SKULL/4.8893eebc14b8ce971d544282235db3.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "copper beaten skull",
+                "COPPER BEATEN SKULL",
+                "Copper beaten skull"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COPPER_BEATEN_SKULL/5.indianjhealthsci_2015_8_2_85_174234_u2.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "copper beaten skull",
+                "COPPER BEATEN SKULL",
+                "Copper beaten skull"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COPPER_BEATEN_SKULL/3.9b8fd7efb3bf610a6c95701a4e2355.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "copper beaten skull",
+                "COPPER BEATEN SKULL",
+                "Copper beaten skull"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COPPER_BEATEN_SKULL/1.461843029800c3c75ecb2903834acf.bmp",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "copper beaten skull",
+                "COPPER BEATEN SKULL",
+                "Copper beaten skull"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBLINGUAL_DERMOID_CYST_CT+MRI/5.0576a660133011e8937d27304a1429ff-Figure-3_Formatted_V1-PME.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sublingual dermoid cyst",
+                "SUBLINGUAL DERMOID CYST",
+                "Sublingual dermoid cyst"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBLINGUAL_DERMOID_CYST_CT+MRI/3.Case1-MRI-of-the-neck-in-15-year-old-girl-without-contrast-The-nodular-homogenous_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sublingual dermoid cyst",
+                "SUBLINGUAL DERMOID CYST",
+                "Sublingual dermoid cyst"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBLINGUAL_DERMOID_CYST_CT+MRI/1.Epidermoid-cyst-in-the-left-sublingual-space-A-C-T-image-reveals-a-well-defined-cystic.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sublingual dermoid cyst",
+                "SUBLINGUAL DERMOID CYST",
+                "Sublingual dermoid cyst"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBLINGUAL_DERMOID_CYST_CT+MRI/2.13244_2018_615_Fig3_HTML.gif",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sublingual dermoid cyst",
+                "SUBLINGUAL DERMOID CYST",
+                "Sublingual dermoid cyst"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SUBLINGUAL_DERMOID_CYST_CT+MRI/4.gr2.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sublingual dermoid cyst",
+                "SUBLINGUAL DERMOID CYST",
+                "Sublingual dermoid cyst"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPHRENIC_DIVERTICUM_BARIUM_SWALLOW/2.Barium-swallow-showing-an-epiphrenic-diverticulum-A-and-B-Oblique-view-C-Frontal-View.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiphrenic diverticum ",
+                "EPIPHRENIC DIVERTICUM ",
+                "Epiphrenic diverticum "
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPHRENIC_DIVERTICUM_BARIUM_SWALLOW/5.Double-contrast-barium-swallow-esophagram-showing-Zenkers-diverticulum-A.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiphrenic diverticum ",
+                "EPIPHRENIC DIVERTICUM ",
+                "Epiphrenic diverticum "
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPHRENIC_DIVERTICUM_BARIUM_SWALLOW/1.View-of-barium-swallow-showing-the-epiphrenic-diverticulum.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiphrenic diverticum ",
+                "EPIPHRENIC DIVERTICUM ",
+                "Epiphrenic diverticum "
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPHRENIC_DIVERTICUM_BARIUM_SWALLOW/3.Barium-swallow-showing-esophageal-diverticulum-A-thin-streak-of-barium-is-visible.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiphrenic diverticum ",
+                "EPIPHRENIC DIVERTICUM ",
+                "Epiphrenic diverticum "
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPHRENIC_DIVERTICUM_BARIUM_SWALLOW/4.A-B-Barium-swallow-showed-large-diverticulum-arising-from-right-lateral-wall-of-mid.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiphrenic diverticum ",
+                "EPIPHRENIC DIVERTICUM ",
+                "Epiphrenic diverticum "
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMA_OF_EYE_USG/2.eyelid-coloboma.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "coloboma of eye",
+                "COLOBOMA OF EYE",
+                "Coloboma of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMA_OF_EYE_USG/4.334.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "coloboma of eye",
+                "COLOBOMA OF EYE",
+                "Coloboma of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMA_OF_EYE_USG/3.Coloboma-243px.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "coloboma of eye",
+                "COLOBOMA OF EYE",
+                "Coloboma of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMA_OF_EYE_USG/5.Fundus-picture-of-right-the-eye-showing-coloboma-inferior-to-optic-disc.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "coloboma of eye",
+                "COLOBOMA OF EYE",
+                "Coloboma of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/COLOBOMA_OF_EYE_USG/1.C0110425-Coloboma_of_the_eye.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "coloboma of eye",
+                "COLOBOMA OF EYE",
+                "Coloboma of eye"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OVARIAN_HYPERSTIMULATION_SYNDROME_USG/3.0ed89dc0d8fba6ef5093e9c1f8e4e7.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ovarian hyperstimulation syndrome",
+                "OVARIAN HYPERSTIMULATION SYNDROME",
+                "Ovarian hyperstimulation syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OVARIAN_HYPERSTIMULATION_SYNDROME_USG/4.dab0fc7866f1616ba7b46c8aa73e7a0e.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ovarian hyperstimulation syndrome",
+                "OVARIAN HYPERSTIMULATION SYNDROME",
+                "Ovarian hyperstimulation syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OVARIAN_HYPERSTIMULATION_SYNDROME_USG/2.A300568_1_En_23_Fig3_HTML.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ovarian hyperstimulation syndrome",
+                "OVARIAN HYPERSTIMULATION SYNDROME",
+                "Ovarian hyperstimulation syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OVARIAN_HYPERSTIMULATION_SYNDROME_USG/1.importedfromusg_27.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ovarian hyperstimulation syndrome",
+                "OVARIAN HYPERSTIMULATION SYNDROME",
+                "Ovarian hyperstimulation syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OVARIAN_HYPERSTIMULATION_SYNDROME_USG/5.ovarain-overstimulation-01.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ovarian hyperstimulation syndrome",
+                "OVARIAN HYPERSTIMULATION SYNDROME",
+                "Ovarian hyperstimulation syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GDA_PSEUDOANEURYSM_VERSUS_CYSTIC_ARTERY_PSEUDOANEURYSM_(BR_OF_RHA)_CT+CONVENTIONAL_ANGIOGRAPHY/5.etm-12-02-1029-g00.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gda pseudoaneurysm versus cystic artery pseudoaneurysm",
+                "GDA PSEUDOANEURYSM VERSUS CYSTIC ARTERY PSEUDOANEURYSM",
+                "Gda pseudoaneurysm versus cystic artery pseudoaneurysm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GDA_PSEUDOANEURYSM_VERSUS_CYSTIC_ARTERY_PSEUDOANEURYSM_(BR_OF_RHA)_CT+CONVENTIONAL_ANGIOGRAPHY/3.hkmj176236-fig-1.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gda pseudoaneurysm versus cystic artery pseudoaneurysm",
+                "GDA PSEUDOANEURYSM VERSUS CYSTIC ARTERY PSEUDOANEURYSM",
+                "Gda pseudoaneurysm versus cystic artery pseudoaneurysm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GDA_PSEUDOANEURYSM_VERSUS_CYSTIC_ARTERY_PSEUDOANEURYSM_(BR_OF_RHA)_CT+CONVENTIONAL_ANGIOGRAPHY/2.CT-cross-section-Arrow-cystic-artery-pseudoaneurysm-enhancing-with-contrast-Arrow_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gda pseudoaneurysm versus cystic artery pseudoaneurysm",
+                "GDA PSEUDOANEURYSM VERSUS CYSTIC ARTERY PSEUDOANEURYSM",
+                "Gda pseudoaneurysm versus cystic artery pseudoaneurysm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GDA_PSEUDOANEURYSM_VERSUS_CYSTIC_ARTERY_PSEUDOANEURYSM_(BR_OF_RHA)_CT+CONVENTIONAL_ANGIOGRAPHY/4.CA3.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gda pseudoaneurysm versus cystic artery pseudoaneurysm",
+                "GDA PSEUDOANEURYSM VERSUS CYSTIC ARTERY PSEUDOANEURYSM",
+                "Gda pseudoaneurysm versus cystic artery pseudoaneurysm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GDA_PSEUDOANEURYSM_VERSUS_CYSTIC_ARTERY_PSEUDOANEURYSM_(BR_OF_RHA)_CT+CONVENTIONAL_ANGIOGRAPHY/1.CT%20cystic%20art%20aneurysm.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gda pseudoaneurysm versus cystic artery pseudoaneurysm",
+                "GDA PSEUDOANEURYSM VERSUS CYSTIC ARTERY PSEUDOANEURYSM",
+                "Gda pseudoaneurysm versus cystic artery pseudoaneurysm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/POLYARTERITIS_NODOSA_CT+CONVENTIONAL_ANGIOGRAPHY/2.polyarteritis-nodosa-16-638.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "polyarteritis nodosa",
+                "POLYARTERITIS NODOSA",
+                "Polyarteritis nodosa"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/POLYARTERITIS_NODOSA_CT+CONVENTIONAL_ANGIOGRAPHY/4.61456tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "polyarteritis nodosa",
+                "POLYARTERITIS NODOSA",
+                "Polyarteritis nodosa"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/POLYARTERITIS_NODOSA_CT+CONVENTIONAL_ANGIOGRAPHY/3.Eight-year-old-boy-with-periarteritis-nodosa-with-multiple-hepatic-artery-aneurysms-A.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "polyarteritis nodosa",
+                "POLYARTERITIS NODOSA",
+                "Polyarteritis nodosa"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/POLYARTERITIS_NODOSA_CT+CONVENTIONAL_ANGIOGRAPHY/1.22760tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "polyarteritis nodosa",
+                "POLYARTERITIS NODOSA",
+                "Polyarteritis nodosa"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/POLYARTERITIS_NODOSA_CT+CONVENTIONAL_ANGIOGRAPHY/5.170919.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "polyarteritis nodosa",
+                "POLYARTERITIS NODOSA",
+                "Polyarteritis nodosa"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEOBRONCHOPATHIA_OSTEOCHONDROPLASTICA_CT/1.a35a5bc1e2ee7490346b5a526092a7.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheobronchopathia osteochondroplastica",
+                "TRACHEOBRONCHOPATHIA OSTEOCHONDROPLASTICA",
+                "Tracheobronchopathia osteochondroplastica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEOBRONCHOPATHIA_OSTEOCHONDROPLASTICA_CT/2.e43031630454f1536ffd500d9fa02e_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheobronchopathia osteochondroplastica",
+                "TRACHEOBRONCHOPATHIA OSTEOCHONDROPLASTICA",
+                "Tracheobronchopathia osteochondroplastica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEOBRONCHOPATHIA_OSTEOCHONDROPLASTICA_CT/5.Tracheobronchopathia-osteochondroplastica-in-a-45-year-man-Nonenhanced-axial-CT-scan.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheobronchopathia osteochondroplastica",
+                "TRACHEOBRONCHOPATHIA OSTEOCHONDROPLASTICA",
+                "Tracheobronchopathia osteochondroplastica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEOBRONCHOPATHIA_OSTEOCHONDROPLASTICA_CT/4.5f82cd59586b353feb48b7ab7d4bdc_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheobronchopathia osteochondroplastica",
+                "TRACHEOBRONCHOPATHIA OSTEOCHONDROPLASTICA",
+                "Tracheobronchopathia osteochondroplastica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEOBRONCHOPATHIA_OSTEOCHONDROPLASTICA_CT/3.28-year-old-male-with-Tracheobronchopathia-Osteochondroplastica-presenting-with.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheobronchopathia osteochondroplastica",
+                "TRACHEOBRONCHOPATHIA OSTEOCHONDROPLASTICA",
+                "Tracheobronchopathia osteochondroplastica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HAGLUND_DEFORMITY_XRAY/5.Haglunds.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "haglund deformity",
+                "HAGLUND DEFORMITY",
+                "Haglund deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HAGLUND_DEFORMITY_XRAY/1.6303c8266a023de3dec02a38ede192.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "haglund deformity",
+                "HAGLUND DEFORMITY",
+                "Haglund deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HAGLUND_DEFORMITY_XRAY/3.8ef3bc4b8875b88c89c0c951d5f344.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "haglund deformity",
+                "HAGLUND DEFORMITY",
+                "Haglund deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HAGLUND_DEFORMITY_XRAY/4.Preoperative-lateral-radiograph-showing-Haglunds-deformity-Fig-3-Postoperative-lateral.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "haglund deformity",
+                "HAGLUND DEFORMITY",
+                "Haglund deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/HAGLUND_DEFORMITY_XRAY/2.34388478a3d5aa5d4c96e9279bda62_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "haglund deformity",
+                "HAGLUND DEFORMITY",
+                "Haglund deformity"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SOFT_TISSUE_HEMANGIOMA_MRI/3.IMG_20170216_201130.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "soft tissue hemangioma",
+                "SOFT TISSUE HEMANGIOMA",
+                "Soft tissue hemangioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SOFT_TISSUE_HEMANGIOMA_MRI/4.t1+mri+axial+hemangioma+in+posterior+knee.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "soft tissue hemangioma",
+                "SOFT TISSUE HEMANGIOMA",
+                "Soft tissue hemangioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SOFT_TISSUE_HEMANGIOMA_MRI/1.fcd549c3b323d64086d43a3dd35925.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "soft tissue hemangioma",
+                "SOFT TISSUE HEMANGIOMA",
+                "Soft tissue hemangioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SOFT_TISSUE_HEMANGIOMA_MRI/5.303a19b8a633709fbbddf2e6fbd8bc_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "soft tissue hemangioma",
+                "SOFT TISSUE HEMANGIOMA",
+                "Soft tissue hemangioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SOFT_TISSUE_HEMANGIOMA_MRI/2.8183a51f34d7e0266a0150e7d72879_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "soft tissue hemangioma",
+                "SOFT TISSUE HEMANGIOMA",
+                "Soft tissue hemangioma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_AMYLOIDOSIS/4.Computed-tomography-of-the-main-carina-in-tracheobronchial-amyloidosis-The-walls-of-both.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal amyloidosis",
+                "TRACHEAL AMYLOIDOSIS",
+                "Tracheal amyloidosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_AMYLOIDOSIS/1.9781604065916_c022_f001.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal amyloidosis",
+                "TRACHEAL AMYLOIDOSIS",
+                "Tracheal amyloidosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_AMYLOIDOSIS/2.gr2.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal amyloidosis",
+                "TRACHEAL AMYLOIDOSIS",
+                "Tracheal amyloidosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_AMYLOIDOSIS/3.Tracheobronchial-amyloidosis-Mediastinal-window-slice-showing-diffuse-nodular.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal amyloidosis",
+                "TRACHEAL AMYLOIDOSIS",
+                "Tracheal amyloidosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRACHEAL_AMYLOIDOSIS/5.DA2-DB1-Amyloidosis_Airways-FF2.gif",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "tracheal amyloidosis",
+                "TRACHEAL AMYLOIDOSIS",
+                "Tracheal amyloidosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRIAL_FIBROMA_MRI/1.1ff2.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atrial fibroma",
+                "ATRIAL FIBROMA",
+                "Atrial fibroma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRIAL_FIBROMA_MRI/4.1ff7.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atrial fibroma",
+                "ATRIAL FIBROMA",
+                "Atrial fibroma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRIAL_FIBROMA_MRI/5.BHC-2-120-g001.gif",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atrial fibroma",
+                "ATRIAL FIBROMA",
+                "Atrial fibroma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRIAL_FIBROMA_MRI/2.1ff5.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atrial fibroma",
+                "ATRIAL FIBROMA",
+                "Atrial fibroma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ATRIAL_FIBROMA_MRI/3.B9781437726992000161_f016-009b-9781437726992.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "atrial fibroma",
+                "ATRIAL FIBROMA",
+                "Atrial fibroma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/NEUROMYELITIS_OPTICA_MRI/5.FigureMRI-of-the-present-patient-with-neuromyelitis-optica-spectrum-disorder-and-BalOs.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "neuromyelitis optica",
+                "NEUROMYELITIS OPTICA",
+                "Neuromyelitis optica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/NEUROMYELITIS_OPTICA_MRI/2.Neuromyelitis-optica-NMO-MRI-in-a-previously-healthy-girl-who-presented-at-age-10.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "neuromyelitis optica",
+                "NEUROMYELITIS OPTICA",
+                "Neuromyelitis optica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/NEUROMYELITIS_OPTICA_MRI/1.c36f36dc6af4abc2db57420ba75258.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "neuromyelitis optica",
+                "NEUROMYELITIS OPTICA",
+                "Neuromyelitis optica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/NEUROMYELITIS_OPTICA_MRI/4.neuromyelitis_optica.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "neuromyelitis optica",
+                "NEUROMYELITIS OPTICA",
+                "Neuromyelitis optica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/NEUROMYELITIS_OPTICA_MRI/3.bc18ca6d89aef76d450410c13be16d.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "neuromyelitis optica",
+                "NEUROMYELITIS OPTICA",
+                "Neuromyelitis optica"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GIST_CT/1.Gastric-GISTs-a-CT-of-the-abdomen-in-a-58-year-old-woman-complaining-of-pelvic-pain.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gist",
+                "GIST",
+                "Gist"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GIST_CT/4.373105.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gist",
+                "GIST",
+                "Gist"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GIST_CT/5.OL-05-04-1233-g00.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gist",
+                "GIST",
+                "Gist"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GIST_CT/3.CT-scan-findings-demonstrating-a-47-cm-GIST-within-2-cm-of-the-gastroesophageal-junction.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gist",
+                "GIST",
+                "Gist"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GIST_CT/2.GIST-in-gastric-lower-body-of-58-year-old-woman-Transverse-CT-scan-shows-well-defined.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gist",
+                "GIST",
+                "Gist"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MARGINAL_ARTERY_OF_DRUMMOND_CONVENTIONAL_ANGIOGRAPHY/5.Superior-mesenteric-artery-angiography-showing-the-presence-of-marginal-artery-of.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "marginal artery of drummond",
+                "MARGINAL ARTERY OF DRUMMOND",
+                "Marginal artery of drummond"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MARGINAL_ARTERY_OF_DRUMMOND_CONVENTIONAL_ANGIOGRAPHY/4.The-collateral-vessels-between-SMA-and-IMA-marginal-artery-of-Drummond-the-arc-of.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "marginal artery of drummond",
+                "MARGINAL ARTERY OF DRUMMOND",
+                "Marginal artery of drummond"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MARGINAL_ARTERY_OF_DRUMMOND_CONVENTIONAL_ANGIOGRAPHY/3.2d434a58dffd11592b4d1e3653411865.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "marginal artery of drummond",
+                "MARGINAL ARTERY OF DRUMMOND",
+                "Marginal artery of drummond"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MARGINAL_ARTERY_OF_DRUMMOND_CONVENTIONAL_ANGIOGRAPHY/1.2016Dec20_Aggarwal_Figure_3.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "marginal artery of drummond",
+                "MARGINAL ARTERY OF DRUMMOND",
+                "Marginal artery of drummond"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/MARGINAL_ARTERY_OF_DRUMMOND_CONVENTIONAL_ANGIOGRAPHY/2.nferior-mesenteric-artery-digital-subtraction-angiography-arteriogram-shows-the-marginal.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "marginal artery of drummond",
+                "MARGINAL ARTERY OF DRUMMOND",
+                "Marginal artery of drummond"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRIGONOCEPAHLY_XRAY+CT_SKULL/2.ken-x-ray.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "trigonocepahly",
+                "TRIGONOCEPAHLY",
+                "Trigonocepahly"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRIGONOCEPAHLY_XRAY+CT_SKULL/5.Skull-x-ray-in-a-3-year-old-child-There-is-global-craniosynostosis-producing-a-skull_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "trigonocepahly",
+                "TRIGONOCEPAHLY",
+                "Trigonocepahly"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRIGONOCEPAHLY_XRAY+CT_SKULL/4.3d43d21652692f0d494f18cad661b8_thumb.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "trigonocepahly",
+                "TRIGONOCEPAHLY",
+                "Trigonocepahly"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRIGONOCEPAHLY_XRAY+CT_SKULL/3.6851d1d9d15cf01bb120d9b9fc2d66_thumb.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "trigonocepahly",
+                "TRIGONOCEPAHLY",
+                "Trigonocepahly"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/TRIGONOCEPAHLY_XRAY+CT_SKULL/1.x-ray.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "trigonocepahly",
+                "TRIGONOCEPAHLY",
+                "Trigonocepahly"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PLEURAL_PLOMBAGE_XRAY/1.Chest-x-ray-showing-almost-complete-resolution-of-the-right-pleural-effusion-with-a-right.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pleural plombage",
+                "PLEURAL PLOMBAGE",
+                "Pleural plombage"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PLEURAL_PLOMBAGE_XRAY/4.Plombage80f.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pleural plombage",
+                "PLEURAL PLOMBAGE",
+                "Pleural plombage"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PLEURAL_PLOMBAGE_XRAY/5.Chest-X-ray-shows-large-left-side-pleural-effusion-arrow.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pleural plombage",
+                "PLEURAL PLOMBAGE",
+                "Pleural plombage"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PLEURAL_PLOMBAGE_XRAY/2.e3611b923b8b11622b811402cbe0c7.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pleural plombage",
+                "PLEURAL PLOMBAGE",
+                "Pleural plombage"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PLEURAL_PLOMBAGE_XRAY/3.Posteroanterior-chest-X-ray-shows-minimal-right-sided-pleural-effusion-there-is.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "pleural plombage",
+                "PLEURAL PLOMBAGE",
+                "Pleural plombage"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/RADIATION_FIBROSIS_HRCT_CHEST/2.A-63-year-old-male-a-Chest-X-ray-shows-bibasal-fibrosis-b-prone-HRCT-demonstrates.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "radiation fibrosis",
+                "RADIATION FIBROSIS",
+                "Radiation fibrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/RADIATION_FIBROSIS_HRCT_CHEST/5.c3dfe6e0b69a04e3e8073c04548f96_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "radiation fibrosis",
+                "RADIATION FIBROSIS",
+                "Radiation fibrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/RADIATION_FIBROSIS_HRCT_CHEST/1.Fibrotic-NSIP-Radiology-HRCT-cut.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "radiation fibrosis",
+                "RADIATION FIBROSIS",
+                "Radiation fibrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/RADIATION_FIBROSIS_HRCT_CHEST/4.HRCT-in-a-teenager-with-end-stage-cystic-fibrosis-shows-mosaic-attenuation-dilatation_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "radiation fibrosis",
+                "RADIATION FIBROSIS",
+                "Radiation fibrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/RADIATION_FIBROSIS_HRCT_CHEST/3.hrct-for-IPF.bmp",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "radiation fibrosis",
+                "RADIATION FIBROSIS",
+                "Radiation fibrosis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KLIPPEL_FEIL_SYNDROME_XRAY/1.c40baa7045e9df66507ca542d78dc4_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "klippel feil syndrome",
+                "KLIPPEL FEIL SYNDROME",
+                "Klippel feil syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KLIPPEL_FEIL_SYNDROME_XRAY/3.Preoperative-and-postoperative-X-rays-of-the-Klippel-Feil-syndrome-patient-Case-15-A.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "klippel feil syndrome",
+                "KLIPPEL FEIL SYNDROME",
+                "Klippel feil syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KLIPPEL_FEIL_SYNDROME_XRAY/4.Radiograph-depicting-the-Klippel-Feil-anomaly-with-partial-fusion-of-the-posterior.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "klippel feil syndrome",
+                "KLIPPEL FEIL SYNDROME",
+                "Klippel feil syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KLIPPEL_FEIL_SYNDROME_XRAY/2.8beaf12fffc09a1cd1610c1f03b6f1.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "klippel feil syndrome",
+                "KLIPPEL FEIL SYNDROME",
+                "Klippel feil syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/KLIPPEL_FEIL_SYNDROME_XRAY/5.Klippel-Feil-syndrome-pictures-An-x-ray-film-of-a-patient-with-Klippel-Feil-syndrome-indicating-abnormal-curvature-of-the-spine.image_.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "klippel feil syndrome",
+                "KLIPPEL FEIL SYNDROME",
+                "Klippel feil syndrome"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIGMOID_VOLVULUS_XRAY/5.aa460d29e01b45e893d0e932c93431.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sigmoid volvulus",
+                "SIGMOID VOLVULUS",
+                "Sigmoid volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIGMOID_VOLVULUS_XRAY/3.Plain-abdominal-X-ray-Image-depicting-the-sigmoid-volvulus-indicating-the-typical-coffee.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sigmoid volvulus",
+                "SIGMOID VOLVULUS",
+                "Sigmoid volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIGMOID_VOLVULUS_XRAY/4.6d80cf4ff3921a3746be51e740b6d6.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sigmoid volvulus",
+                "SIGMOID VOLVULUS",
+                "Sigmoid volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIGMOID_VOLVULUS_XRAY/1.04e4d09e2a96ebf0b1f6f9b22364aa.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sigmoid volvulus",
+                "SIGMOID VOLVULUS",
+                "Sigmoid volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/SIGMOID_VOLVULUS_XRAY/2.0312cc34edf2c38859b96c86aca03f.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "sigmoid volvulus",
+                "SIGMOID VOLVULUS",
+                "Sigmoid volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_VOLVULUS/1.CaecalVolvulus.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal volvulus",
+                "CAECAL VOLVULUS",
+                "Caecal volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_VOLVULUS/2.f58bfed5cbd0c96c41932db540c09c.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal volvulus",
+                "CAECAL VOLVULUS",
+                "Caecal volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_VOLVULUS/3.caecal-volvulus1334583058608.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal volvulus",
+                "CAECAL VOLVULUS",
+                "Caecal volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_VOLVULUS/4.F2.large.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal volvulus",
+                "CAECAL VOLVULUS",
+                "Caecal volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CAECAL_VOLVULUS/5.c1e4f96f01525ba803ab8e609368e6.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "caecal volvulus",
+                "CAECAL VOLVULUS",
+                "Caecal volvulus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OMENTAL_INFARCT_CT/4.69e1e75cbbb7fdf58af749bd51a166.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "omental infarct",
+                "OMENTAL INFARCT",
+                "Omental infarct"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OMENTAL_INFARCT_CT/3.f5a1e44aedd5821facd721806af951_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "omental infarct",
+                "OMENTAL INFARCT",
+                "Omental infarct"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OMENTAL_INFARCT_CT/5.357056.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "omental infarct",
+                "OMENTAL INFARCT",
+                "Omental infarct"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OMENTAL_INFARCT_CT/1.ea33cd232a23b1ca0cdebced94be60_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "omental infarct",
+                "OMENTAL INFARCT",
+                "Omental infarct"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/OMENTAL_INFARCT_CT/2.357054.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "omental infarct",
+                "OMENTAL INFARCT",
+                "Omental infarct"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPLOIC_APPENDAGITIS_CT/5.ffaffe6f3a03c6b1afab2911219a48_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiploic appendagitis",
+                "EPIPLOIC APPENDAGITIS",
+                "Epiploic appendagitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPLOIC_APPENDAGITIS_CT/2.e2d4afabfc0807967cae85ea906605_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiploic appendagitis",
+                "EPIPLOIC APPENDAGITIS",
+                "Epiploic appendagitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPLOIC_APPENDAGITIS_CT/1.Epiploic_appendagitis_CT_002.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiploic appendagitis",
+                "EPIPLOIC APPENDAGITIS",
+                "Epiploic appendagitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPLOIC_APPENDAGITIS_CT/3.Acute-epiploic-appendagitis-near-the-descending-colon-Axial-contrast-enhanced-CT-images.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiploic appendagitis",
+                "EPIPLOIC APPENDAGITIS",
+                "Epiploic appendagitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/EPIPLOIC_APPENDAGITIS_CT/4.JFamCommunityMed_2016_23_1_48_172234_f1.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "epiploic appendagitis",
+                "EPIPLOIC APPENDAGITIS",
+                "Epiploic appendagitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CA_COLON_BARIUM_ENEMA/3.Figure-1-A-Barium-enema-showed-a-stenotic-lesion-in-the-transverse-colon-B-The-tumor.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ca colon",
+                "CA COLON",
+                "Ca colon"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CA_COLON_BARIUM_ENEMA/1.Barium-enema-showing-microcolon-and-no-progression-of-contrast-proximal-to-the.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ca colon",
+                "CA COLON",
+                "Ca colon"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CA_COLON_BARIUM_ENEMA/4.Barium-enema-showing-stenosis-and-thumbprinting-of-the-left-colon-with-mild-proximal.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ca colon",
+                "CA COLON",
+                "Ca colon"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CA_COLON_BARIUM_ENEMA/5.Barium-enema-Wlms-a-Shows-a-redundant-sigmoid-colon-b-is-the-same-Wlm-with-the-barium.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ca colon",
+                "CA COLON",
+                "Ca colon"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CA_COLON_BARIUM_ENEMA/2.C0011835-Healthy_colon,_barium_enema.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ca colon",
+                "CA COLON",
+                "Ca colon"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BENIGN_STRICTURE_OF_ESOPHAGUS_BARIUM_SWALLOW/4.3d5d8ccf99e18b6ccf4f371405888b7f.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "benign stricture of esophagus",
+                "BENIGN STRICTURE OF ESOPHAGUS",
+                "Benign stricture of esophagus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BENIGN_STRICTURE_OF_ESOPHAGUS_BARIUM_SWALLOW/5.Barium-swallow-showing-benign-stricture-middle-oesophagus_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "benign stricture of esophagus",
+                "BENIGN STRICTURE OF ESOPHAGUS",
+                "Benign stricture of esophagus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BENIGN_STRICTURE_OF_ESOPHAGUS_BARIUM_SWALLOW/3.PMC2784582_IJD-53-26-g001.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "benign stricture of esophagus",
+                "BENIGN STRICTURE OF ESOPHAGUS",
+                "Benign stricture of esophagus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BENIGN_STRICTURE_OF_ESOPHAGUS_BARIUM_SWALLOW/1.Barium-swallow-showing-an-obstruction-at-the-lower-end-of-the-esophagus-with-proximal.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "benign stricture of esophagus",
+                "BENIGN STRICTURE OF ESOPHAGUS",
+                "Benign stricture of esophagus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/BENIGN_STRICTURE_OF_ESOPHAGUS_BARIUM_SWALLOW/2.The-barium-swallow-test-in-the-anteroposterior-A-and-lateral-views-B-showing.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "benign stricture of esophagus",
+                "BENIGN STRICTURE OF ESOPHAGUS",
+                "Benign stricture of esophagus"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DIFFUSE_ESOPHAGEAL_SPASM_BARIUM_SWALLOW/2.esophageal-spasm.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "diffuse esophageal spasm",
+                "DIFFUSE ESOPHAGEAL SPASM",
+                "Diffuse esophageal spasm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DIFFUSE_ESOPHAGEAL_SPASM_BARIUM_SWALLOW/1.Barium-Swallow-Diffuse-Oesophageal-Spasm-786x1024.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "diffuse esophageal spasm",
+                "DIFFUSE ESOPHAGEAL SPASM",
+                "Diffuse esophageal spasm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DIFFUSE_ESOPHAGEAL_SPASM_BARIUM_SWALLOW/4.barium-swallow-presentation-58-728.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "diffuse esophageal spasm",
+                "DIFFUSE ESOPHAGEAL SPASM",
+                "Diffuse esophageal spasm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DIFFUSE_ESOPHAGEAL_SPASM_BARIUM_SWALLOW/5.35437tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "diffuse esophageal spasm",
+                "DIFFUSE ESOPHAGEAL SPASM",
+                "Diffuse esophageal spasm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/DIFFUSE_ESOPHAGEAL_SPASM_BARIUM_SWALLOW/3.A-barium-swallow-study-shows-the-radiologic-appearance-of-A-achalasia-B-diffuse.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "diffuse esophageal spasm",
+                "DIFFUSE ESOPHAGEAL SPASM",
+                "Diffuse esophageal spasm"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ZENKER_DIVERTICULUM_BARIUM_SWALLOW/1.pharyngoesophageal-killianstriangle-diverticulum-radiology-clinical-original.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "zenker diverticulum",
+                "ZENKER DIVERTICULUM",
+                "Zenker diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ZENKER_DIVERTICULUM_BARIUM_SWALLOW/5.zenker_s_diverticulum_ba_swallow_ento_076.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "zenker diverticulum",
+                "ZENKER DIVERTICULUM",
+                "Zenker diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ZENKER_DIVERTICULUM_BARIUM_SWALLOW/2.Double-contrast-barium-swallow-esophagram-showing-Zenkers-diverticulum-A.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "zenker diverticulum",
+                "ZENKER DIVERTICULUM",
+                "Zenker diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ZENKER_DIVERTICULUM_BARIUM_SWALLOW/3.e1080b270e2d2733765c6abb39afb6_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "zenker diverticulum",
+                "ZENKER DIVERTICULUM",
+                "Zenker diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ZENKER_DIVERTICULUM_BARIUM_SWALLOW/4.41.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "zenker diverticulum",
+                "ZENKER DIVERTICULUM",
+                "Zenker diverticulum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRIMARY_SCLEROSING_CHOLANGITIS_MRCP/4.primary-sclerosing-cholangitis-MRI.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "primary sclerosing cholangitis",
+                "PRIMARY SCLEROSING CHOLANGITIS",
+                "Primary sclerosing cholangitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRIMARY_SCLEROSING_CHOLANGITIS_MRCP/2.maging-and-endoscopy-demonstrating-primary-sclerosing-cholangitis-A-MRCP-of-a-patient.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "primary sclerosing cholangitis",
+                "PRIMARY SCLEROSING CHOLANGITIS",
+                "Primary sclerosing cholangitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRIMARY_SCLEROSING_CHOLANGITIS_MRCP/5.Primary-sclerosing-cholangitis-in-a-17-year-old-male-Coronal-radial-slab-MR_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "primary sclerosing cholangitis",
+                "PRIMARY SCLEROSING CHOLANGITIS",
+                "Primary sclerosing cholangitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRIMARY_SCLEROSING_CHOLANGITIS_MRCP/3.MRCP-cholangiographic-3D-sequence-in-this-case-of-primary-sclerosing-cholangitis-note.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "primary sclerosing cholangitis",
+                "PRIMARY SCLEROSING CHOLANGITIS",
+                "Primary sclerosing cholangitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PRIMARY_SCLEROSING_CHOLANGITIS_MRCP/1.Recurrent-primary-sclerosing-cholangitis-a-Thick-section-MRCP-image-shows-multifocal.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "primary sclerosing cholangitis",
+                "PRIMARY SCLEROSING CHOLANGITIS",
+                "Primary sclerosing cholangitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ISCHEMIC_COLITIS_XRAY+BARIUM/5.17506tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ischemic colitis",
+                "ISCHEMIC COLITIS",
+                "Ischemic colitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ISCHEMIC_COLITIS_XRAY+BARIUM/2.17508tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ischemic colitis",
+                "ISCHEMIC COLITIS",
+                "Ischemic colitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ISCHEMIC_COLITIS_XRAY+BARIUM/4.17539tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ischemic colitis",
+                "ISCHEMIC COLITIS",
+                "Ischemic colitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ISCHEMIC_COLITIS_XRAY+BARIUM/1.17505tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ischemic colitis",
+                "ISCHEMIC COLITIS",
+                "Ischemic colitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/ISCHEMIC_COLITIS_XRAY+BARIUM/3.17516tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "ischemic colitis",
+                "ISCHEMIC COLITIS",
+                "Ischemic colitis"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PORCELAIN_GB_CT+XRAY/3.419894396b396999bf7a006b8f9d82.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "porcelain gb",
+                "PORCELAIN GB",
+                "Porcelain gb"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PORCELAIN_GB_CT+XRAY/1.419894396b396999bf7a006b8f9d82_big_gallery.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "porcelain gb",
+                "PORCELAIN GB",
+                "Porcelain gb"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PORCELAIN_GB_CT+XRAY/5.77MporcGBincidentalKUB-450x373.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "porcelain gb",
+                "PORCELAIN GB",
+                "Porcelain gb"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PORCELAIN_GB_CT+XRAY/4.1d7c285decae6ea86248cf055e1c17_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "porcelain gb",
+                "PORCELAIN GB",
+                "Porcelain gb"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/PORCELAIN_GB_CT+XRAY/2.1365999cb1e1c5858e32615acd1ca9_big_gallery.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "porcelain gb",
+                "PORCELAIN GB",
+                "Porcelain gb"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GCT_OF_SACRUM/3.GCT-of-the-sacrum-crossing-the-sacroiliac-joint-in-a-20-year-old-woman-Anteroposterior_Q320.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "abc/gct of sacrum",
+                "ABC/GCT OF SACRUM",
+                "Abc/gct of sacrum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GCT_OF_SACRUM/4.GCT-of-the-sacrum-crossing-the-sacroiliac-joint-in-a-20-year-old-woman-Anteroposterior.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "abc/gct of sacrum",
+                "ABC/GCT OF SACRUM",
+                "Abc/gct of sacrum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GCT_OF_SACRUM/1.4b16e4161859cd7955321175d73b56_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "abc/gct of sacrum",
+                "ABC/GCT OF SACRUM",
+                "Abc/gct of sacrum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GCT_OF_SACRUM/5.2396f631a84da39d25235bdacc43a3.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "abc/gct of sacrum",
+                "ABC/GCT OF SACRUM",
+                "Abc/gct of sacrum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GCT_OF_SACRUM/2.5c112f8daf51d0e8102a91cbae1b47_big_gallery.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "abc/gct of sacrum",
+                "ABC/GCT OF SACRUM",
+                "Abc/gct of sacrum"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CORPUS_CALLOSIUM_LIPOMA_NCCT_HEAD/3.image01149.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "corpus callosium lipoma",
+                "CORPUS CALLOSIUM LIPOMA",
+                "Corpus callosium lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CORPUS_CALLOSIUM_LIPOMA_NCCT_HEAD/4.15581tn.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "corpus callosium lipoma",
+                "CORPUS CALLOSIUM LIPOMA",
+                "Corpus callosium lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CORPUS_CALLOSIUM_LIPOMA_NCCT_HEAD/2.image01151.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "corpus callosium lipoma",
+                "CORPUS CALLOSIUM LIPOMA",
+                "Corpus callosium lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/CORPUS_CALLOSIUM_LIPOMA_NCCT_HEAD/1.image01148.jpeg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "corpus callosium lipoma",
+                "CORPUS CALLOSIUM LIPOMA",
+                "Corpus callosium lipoma"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GOUT_XRAY/2.cb56736a6210176309a174e51a3904.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gout",
+                "GOUT",
+                "Gout"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GOUT_XRAY/4.gout-xray-of-the-foot-big-toe-joint-277x300.png",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gout",
+                "GOUT",
+                "Gout"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GOUT_XRAY/3.e87db749710608142491161b2956e4.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gout",
+                "GOUT",
+                "Gout"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GOUT_XRAY/1.18e32fc3c875ba68fbedec4f80f732.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gout",
+                "GOUT",
+                "Gout"
+            ]
+        },
+        {
+            "id": 0,
+            "question": "What is the condition in this image?",
+            "pictureQuestion": "images/GOUT_XRAY/5.67164ab08af24208141ef2161db54926.jpg",
+            "type": "pictureQuestionShortAnswer",
+            "correctAnswerArray": [
+                "gout",
+                "GOUT",
+                "Gout"
+            ]
+        }
+    ]
+}
