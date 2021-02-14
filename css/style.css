@@ -50,7 +50,7 @@ html, body {
   display: block;
   text-align: center;
   width: 40%;
-  margin: 0 30px;
+  margin: 30px;
 }
 
 .quiz .title {
@@ -73,8 +73,6 @@ html, body {
 }
 
 .questionContainer {
-  display: flex;
-  height: 100vh;
   width: 100vw;
   background-color: #E3E8E9;
   font-family: "Times New Roman", serif;
@@ -82,7 +80,6 @@ html, body {
 }
 
 .questionHeader {
-  position: fixed;
   height: 70px;
   line-height: 70px;
   width: 100%;
@@ -115,10 +112,10 @@ html, body {
 }
 
 .questionBody {
-  position: relative;
-  top: 80px;
+  display: flex;
   width: 75%;
-  padding-left: 5px;
+  margin: auto;
+  justify-content: center;
 }
 
 .right-side {
@@ -132,7 +129,6 @@ html, body {
 }
 
 .answerContainer {
-  display: flex;
   flex-direction: row;
   width: 100%;
   margin: 0 auto;
@@ -203,8 +199,7 @@ html, body {
 
 .answerContainer .afterSubmit {
   display: block;
-  width: 50%;
-  margin-left: 5px;
+  margin-top: 40px;
 }
 
 .answerContainer input[type="text"] {
@@ -288,24 +283,22 @@ html, body {
 .resultsContainer {
   height: 100vh;
   width: 100vw;
-  background-color: rgba(0, 117, 255, 0.66);
+  background-color: #E3E8E9;
   font-family: Helvetica, sans-serif;
-  position: fixed;
   padding-left: 5px;
+  text-align: center;
 }
 
 .resultsContainer .topLeft {
-  font-family: Georgia, Serif;
-  position: absolute;
-  top: 5px;
-  left: 5px;
-  font-size: 1.5em;
-  color: darkviolet;
+  text-align: center;
+  font-size: 3em;
+  color: rgba(255, 0, 0, 0.77);
+  font-weight: 800;
 }
 
 .resultsContainer p {
   font-size: 0.8em;
-  color: white;
+  color: #1D2326;
 }
 
 .resultsContainer span.num {
@@ -319,9 +312,10 @@ html, body {
 }
 
 .resultsContainer .giphy {
-  margin-top: 30px;
+  margin: 30px auto 0;
   width: 300px;
   height: 200px;
+
 }
 
 .resultsContainer .giphy-great-job.ng-enter {
@@ -345,6 +339,21 @@ html, body {
   width: 100%;
   margin: 0 auto;
   overflow-y: auto;
+  padding-top: 120px;
+}
+
+.hiddenLink {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: auto;
+}
+
+.hiddenDiv {
+  display: hidden;    
+}
+
+.showDiv {
+  display: block !important
 }
 
 @media (max-width: 550px)  {

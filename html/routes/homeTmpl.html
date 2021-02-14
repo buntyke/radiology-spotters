@@ -1,16 +1,26 @@
+<script>
+  console.log("Happy Valentines Day Nirmita!")
+  function showDiv() {
+    document.querySelector(".hiddenDiv").classlist.toggle("showDiv")
+  }  
+</script>
+
 <div class="homeContainer">
   <div class="homeBody">
     <header>
-      Radiology Spotters
+      Radiology Commo<a class="hiddenLink" onclick="showDiv()">n</a> Spotters
     </header>
     <div class="quizChoices">
       <div class="quiz" ng-repeat="quiz in quizzes">
-        <p class="title">{{quiz.title}}</p>
+        <!--<p class="title">{{quiz.title}}</p>-->
         <a ui-sref="Quiz({quizBriefName: quiz.briefName})">
           <img ng-src="{{quiz.picture}}" alt="Quiz" width="200">
         </a>
         <!--<p class="description">{{quiz.description}}</p>-->
       </div>
+    </div>
+    <div class="hiddenDiv">
+      Happy Valentines Day Nirmita!
     </div>
   </div>
 </div>
