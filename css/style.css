@@ -7,6 +7,12 @@ html, body {
   padding: 0;
 }
 
+body{
+  background-color: #E3E8E9;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
 .homeContainer {
   height: 100vh;
   width: 100vw;
@@ -74,7 +80,6 @@ html, body {
 
 .questionContainer {
   width: 100vw;
-  background-color: #E3E8E9;
   font-family: "Times New Roman", serif;
   font-size: 1em;
 }
