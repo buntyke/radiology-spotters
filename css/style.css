@@ -349,7 +349,8 @@ html, body {
 }
 
 .hiddenDiv {
-  display: hidden;    
+  display: none;
+  text-align: center;
 }
 
 .showDiv {
