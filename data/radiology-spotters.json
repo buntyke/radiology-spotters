@@ -1330,7 +1330,7 @@
         {
             "id": 0,
             "question": "What is the condition in this image?",
-            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/3.Sudecks-Atrophy.jpg",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/COMPLEX_REGIONAL_PAIN_SYNDROME/3.Sudecks-Atrophy.jpg",
             "type": "pictureQuestionShortAnswer",
             "correctAnswerArray": [
                 "sudecks dystrophy",
@@ -1341,7 +1341,7 @@
         {
             "id": 0,
             "question": "What is the condition in this image?",
-            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/1.cd36d5fb97594970c867346118e28c.jpg",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/COMPLEX_REGIONAL_PAIN_SYNDROME/1.cd36d5fb97594970c867346118e28c.jpg",
             "type": "pictureQuestionShortAnswer",
             "correctAnswerArray": [
                 "sudecks dystrophy",
@@ -1352,7 +1352,7 @@
         {
             "id": 0,
             "question": "What is the condition in this image?",
-            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/4.pm_general_crps_intro01.jpg",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/COMPLEX_REGIONAL_PAIN_SYNDROME/4.pm_general_crps_intro01.jpg",
             "type": "pictureQuestionShortAnswer",
             "correctAnswerArray": [
                 "sudecks dystrophy",
@@ -1363,7 +1363,7 @@
         {
             "id": 0,
             "question": "What is the condition in this image?",
-            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/2.Complex-Regional-Pain-Syndrome.jpg",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/COMPLEX_REGIONAL_PAIN_SYNDROME/2.Complex-Regional-Pain-Syndrome.jpg",
             "type": "pictureQuestionShortAnswer",
             "correctAnswerArray": [
                 "sudecks dystrophy",
@@ -1374,7 +1374,7 @@
         {
             "id": 0,
             "question": "What is the condition in this image?",
-            "pictureQuestion": "images/SUDECKS_DYSTROPHY/_COMPLEX_REGIONAL_PAIN_SYNDROME/5.Reflex-Sympathetic-Dystrophy.jpg",
+            "pictureQuestion": "images/SUDECKS_DYSTROPHY/COMPLEX_REGIONAL_PAIN_SYNDROME/5.Reflex-Sympathetic-Dystrophy.jpg",
             "type": "pictureQuestionShortAnswer",
             "correctAnswerArray": [
                 "sudecks dystrophy",
